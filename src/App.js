@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "./logo.png";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
         fontFamily: "roboto",
       }}
     >
+      <img src={logo} alt="Farmastat logo" />
       <h1
         style={{
           color: "#6ec177",

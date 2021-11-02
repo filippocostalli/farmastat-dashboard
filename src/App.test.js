@@ -6,3 +6,4 @@ test("renders learn react link", () => {
   const linkElement = screen.getByText(/Farmastat Dashboard, Come soon/i);
   expect(linkElement).toBeInTheDocument();
 });
+firebase - login;
