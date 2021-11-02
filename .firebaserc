@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "farmastat-dashboard-production"
-  }
+    "default": "farmastat-dashboard-production",
+    "staging": "farmastat-dashboard-staging"
+  },
+  "targets": {}
 }
